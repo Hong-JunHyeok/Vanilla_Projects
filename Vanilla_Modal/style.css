@@ -45,6 +45,8 @@ body > button {
   transform: translate(-50%, -50%);
   max-width: 100%;
   width: 400px;
+  animation-name: modalopen;
+  animation-duration: 1s;
 }
 
 .modal-header {
@@ -69,4 +71,14 @@ body > button {
   right: 10px;
   border: none;
   color: white;
+}
+
+@keyframes modalopen {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
