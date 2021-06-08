@@ -13,3 +13,9 @@
 **이 레포지토리의 방향성?**
 
 거창한 프로젝트는 아니더라도 자잘한 바닐라 JS 프로젝트들을 이 레포지토리에서 관리할려고 합니다.
+
+# 🛠 프로젝트들
+
+- [바닐라 모달](https://github.com/Hong-JunHyeok/Vanilla_Projects/tree/main/Vanilla_Modal)
+
+![2021-06-08 14 43 29](https://user-images.githubusercontent.com/48292190/121129487-fdca1c80-c867-11eb-95f5-4952e1d409f4.gif)
