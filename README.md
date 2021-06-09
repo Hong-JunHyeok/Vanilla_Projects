@@ -25,3 +25,9 @@
 - [분류할 수 있는 목록](https://github.com/Hong-JunHyeok/Vanilla_Projects/tree/main/Sortable_List)
 
 ![sortable_list](https://user-images.githubusercontent.com/48292190/121149935-0af20600-c87e-11eb-93b8-9874677a7ece.gif)
+
+<hr />
+
+- [무한 스크롤](https://github.com/Hong-JunHyeok/Vanilla_Projects/tree/main/Infinite_Scrolling)
+
+![infinite_scroll](https://user-images.githubusercontent.com/48292190/121282322-3f180600-c914-11eb-9304-58fd5d07d97f.gif)
