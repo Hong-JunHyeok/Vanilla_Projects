@@ -8,7 +8,23 @@
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
-    무한 스크롤
+    <div class="filter-container">
+      <input
+        type="text"
+        id="filter"
+        class="filter"
+        placeholder="포스트를 필터링 해보세요..."
+      />
+    </div>
+
+    <div id="post-container"></div>
+
+    <div class="loader">
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+    </div>
+
     <script src="./script.js"></script>
   </body>
 </html>
