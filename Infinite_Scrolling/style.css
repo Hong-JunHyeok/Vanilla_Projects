@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #296ca8;
+  background-color: #f2f2f2;
   color: #fff;
   font-family: "Roboto", sans-serif;
   display: flex;
@@ -20,6 +20,7 @@ body {
 h1 {
   margin-bottom: 0;
   text-align: center;
+  color: black;
 }
 
 .filter-container {
@@ -36,7 +37,8 @@ h1 {
 
 .post {
   position: relative;
-  background-color: #4992d3;
+  background-color: white;
+  color: black;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   border-radius: 3px;
   padding: 20px;
@@ -67,8 +69,8 @@ h1 {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background: #fff;
-  color: #296ca8;
+  background: #296ca8;
+  color: white;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -88,7 +90,7 @@ h1 {
 }
 
 .circle {
-  background-color: #fff;
+  background-color: #296ca8;
   width: 10px;
   height: 10px;
   border-radius: 50%;
@@ -111,6 +113,6 @@ h1 {
   }
 
   50% {
-    transform: translateY(-10px);
+    transform: translateY(-20px);
   }
 }
