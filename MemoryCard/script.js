@@ -40,11 +40,13 @@ function createCard(data, index) {
   <div class="inner-card">
     <div class="inner-card-front">
         <p>
+        Q. 
         ${data.question}
         </p>
     </div>
     <div class="inner-card-back">
         <p>
+        A. 
         ${data.answer}
         </p>
     </div>

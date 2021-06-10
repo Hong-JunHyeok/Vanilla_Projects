@@ -31,3 +31,9 @@
 - [무한 스크롤](https://github.com/Hong-JunHyeok/Vanilla_Projects/tree/main/Infinite_Scrolling)
 
 ![infinite_scroll](https://user-images.githubusercontent.com/48292190/121282322-3f180600-c914-11eb-9304-58fd5d07d97f.gif)
+
+<hr />
+
+- [메모리 카드](https://github.com/Hong-JunHyeok/Vanilla_Projects/tree/main/MemoryCard)
+
+![memory_card](https://images.velog.io/images/hjh040302/post/8264ec71-1cbd-4670-8739-3972d0656785/2021-06-10%2022.20.11.gif)
