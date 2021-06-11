@@ -37,3 +37,9 @@
 - [메모리 카드](https://github.com/Hong-JunHyeok/Vanilla_Projects/tree/main/MemoryCard)
 
 ![memory_card](https://images.velog.io/images/hjh040302/post/8264ec71-1cbd-4670-8739-3972d0656785/2021-06-10%2022.20.11.gif)
+
+<hr />
+
+-[타이핑 게임](https://github.com/Hong-JunHyeok/Vanilla_Projects/tree/main/Typing_Game)
+
+![typing_game](https://images.velog.io/images/hjh040302/post/5e0ea257-d974-42fd-bbd5-534739873e9e/2021-06-11%2017.15.02.gif)
